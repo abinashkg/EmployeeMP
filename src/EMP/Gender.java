@@ -3,7 +3,7 @@ import java.util.*;
 
 public enum Gender {
 	
-	MALE("Male") , FEMALE("Female") , OTHERS("Others");
+	MALE("Male") , FEMALE("Female") , NA("Others");
 	
 	final  String value;
 	
